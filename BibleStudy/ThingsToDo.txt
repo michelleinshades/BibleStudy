@@ -1,0 +1,11 @@
+Things to do:
+- help pages
+- saving before loading or leaving
+- hitting enter within save input
+- how does the save input work with spaces
+- putting in cursor when already text there
+- on android, should not be able to push buttons outside of the popup window buttons
+- on andriod, don't put cursor in right away because it brings up keyboard right away then
+- test exit button after saving
+- put side panel above text
+- scrollbar on input box

@@ -1,0 +1,5 @@
+Things to do:
+- help pages
+- trying saving using json - plan - when saving, ask for a name to store under. Store all of those name in one database. Also save all listOfAnswers pages, that name you picked in another database. When loading, ask for the name to load and then load all the pages with that name.
+- new and open buttons - logic when visible
+- make a save and a save as button
